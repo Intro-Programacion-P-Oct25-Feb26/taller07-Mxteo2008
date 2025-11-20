@@ -73,3 +73,7 @@ Para imprimir el reporte (usar una cadena de acumulación):
 
 ```
 Para imprimir el reporte (usar una cadena de acumulación):
+
+
+
+INTEGRANTES: VALDIVIESO TAPIA MATEO JOSUE, JIMENEZ ESPARZA MATEO SEBASTIAN
